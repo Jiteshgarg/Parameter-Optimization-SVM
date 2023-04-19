@@ -39,7 +39,7 @@ Number of Attributes: 17
 
 
 ## Convergence Graph
-![graph](https://github.com/Jiteshgarg/Parameter-Optimization-of-SVM/blob/main/graph.png)
+![graph](https://github.com/Jiteshgarg/Parameter-Optimization-SVM/blob/main/graph.png)
 
 ## Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
